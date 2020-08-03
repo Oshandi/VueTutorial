@@ -1,7 +1,6 @@
 new Vue({
-
-  el:'#Vue-app',
-  data:{
-    name:'Piyumi'
+  el: '#app',
+  data: {
+    name: 'Piyumi'
   }
 })
